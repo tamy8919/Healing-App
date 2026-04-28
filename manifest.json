@@ -1,0 +1,13 @@
+{
+  "name": "Ganzheitliche Heilbegleitung",
+  "short_name": "Heilung",
+  "description": "Ganzheitliche Heilbegleitung von Tamara Jost",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f0f8f5",
+  "theme_color": "#59B88D",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
